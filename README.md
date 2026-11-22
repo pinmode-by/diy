@@ -1,2 +1,5 @@
-# diy
-DIY instructions
+# Сделай сам / Do it yourself instructions
+
+## Заливка силикона
+
+## Изготовление печатных плат методом ЛУТ
