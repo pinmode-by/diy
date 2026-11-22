@@ -14,3 +14,7 @@
 | 18                 | 1.6       |
 | 35                 | 3.2       |
 | 70                 | 6.4       |
+
+### Уравнение реакции:
+
+3Cu +3H<sub>2</sub>O<sub>2</sub> + 2C<sub>6</sub>H<sub>8</sub>O<sub>7</sub> = Cu<sub>3</sub>(C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>)+6H<sub>2</sub>O
